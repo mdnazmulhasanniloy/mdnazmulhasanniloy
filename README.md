@@ -1,8 +1,10 @@
 
 <img src="https://i.ibb.co/4dw58rt/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="mdnazmulhasanniloy"  style="width:100%: height: auto;"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnazmulhasanniloy&label=Profile%20views&color=0e75b6&style=flat" alt="mdnazmulhasanniloy"  /> </p>
-### Hi there 👋, my name is MD Nazmul Hasan
-#### I am a MERN-Stack Developer
+<h2>Hi there 👋, </h2>
+<h1>I'm MD Nazmul Hasan </h1>
+  
+<h3>I am a MERN-Stack Developer </h3>
 
 
 Goal-oriented Web Developer with fast-learning ability seeking a challenging career to utilize my skills, and keep learning and sharing. Passionate about Creating Interactive Applications and Developed Web Applications. Interested to take on new challenges and learn new technologies. My ultimate goal is to become an awesome full-stack web developer who can make beautiful Uls and also can handle the back-end smoothly.
