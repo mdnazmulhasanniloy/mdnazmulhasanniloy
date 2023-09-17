@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1Ut8fXRgjYR_AkSiuN5AtdSHobR9zMdw-/view?usp=sharing" alt="Banner" />
+<a href="https://ibb.co/BNHSyM3"><img src="https://i.ibb.co/BNHSyM3/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Navy-Blue-Geometric-Technology-Linked-In-Banner" border="0"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnazmulhasanniloy&label=Profile%20views&color=0e75b6&style=flat" alt="mdnazmulhasanniloy" /> </p>
 ### Hi there 👋, my name is MD Nazmul Hasan
 #### I am a MERN-Stack Developer
