@@ -1,6 +1,8 @@
+<img src="https://drive.google.com/file/d/1Ut8fXRgjYR_AkSiuN5AtdSHobR9zMdw-/view?usp=sharing" alt="Banner" />
+
 ### Hi there 👋, my name is MD Nazmul Hasan
 #### I am a MERN-Stack Developer
-![I am a MERN-Stack Developer](https://drive.google.com/file/d/1Ut8fXRgjYR_AkSiuN5AtdSHobR9zMdw-/view?usp=sharing)
+
 
 Goal-oriented Web Developer with fast-learning ability seeking a challenging career to utilize my skills, and keep learning and sharing. Passionate about Creating Interactive Applications and Developed Web Applications. Interested to take on new challenges and learn new technologies. My ultimate goal is to become an awesome full-stack web developer who can make beautiful Uls and also can handle the back-end smoothly.
 
