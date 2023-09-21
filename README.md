@@ -1,8 +1,7 @@
 
 <img src="https://i.ibb.co/4dw58rt/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="mdnazmulhasanniloy"  style="width:100%: height: auto;"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnazmulhasanniloy&label=Profile%20views&color=0e75b6&style=flat" alt="mdnazmulhasanniloy"  /> </p>
-<h2>Hi there 👋, </h2>
-<h1>I'm MD Nazmul Hasan </h1>
+<h2>Hi there 👋,  I'm MD Nazmul Hasan </h2>
   
 <h3>I am a MERN-Stack Developer </h3>
 
