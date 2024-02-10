@@ -100,8 +100,10 @@ Goal-oriented Web Developer with fast-learning ability seeking a challenging car
 
 ## Github Stats  
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnazmulhasanniloy&show_icons=true&locale=en" alt="mdnazmulhasanniloy" align="center" /></div>  
-<div alicn='center'></div>
+ 
+<div alicn='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnazmulhasanniloy&show_icons=true&locale=en" alt="mdnazmulhasanniloy" /></div>
 
+<div alicn='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnazmulhasanniloy&" alt="mdnazmulhasanniloy" /></div>
 
 
 <br/>  
