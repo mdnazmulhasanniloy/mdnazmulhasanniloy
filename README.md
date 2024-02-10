@@ -110,34 +110,26 @@ Skills: HTML | CSS | BOOTSTRAP | TAILEIND CSS | JAVASCRIPT | REACT | REDUX | NOD
     height="40"
   />
   <img
+    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+    alt="firebase"
+    width="40"
+    height="40"
+  />
+  <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     alt="firebase"
     width="40"
     height="40"
   />
-</p>
-  <p>
-    <img
-    src=""
-    alt="git"
-    width="40"
-    height="40"
-  />
-
   <img
     src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-    alt="illustrator"
+    alt="firebase"
     width="40"
     height="40"
   />
-
-  <img
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-    alt="figma"
-    width="40"
-    height="40"
-  />
-  </p>
+  
+</p>
+  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazmulhasanniloy&show_icons=true&locale=en&layout=compact" alt="mdnazmulhasanniloy" /></p>
