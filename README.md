@@ -109,8 +109,9 @@ Skills: HTML | CSS | BOOTSTRAP | TAILEIND CSS | JAVASCRIPT | REACT | REDUX | NOD
     width="40"
     height="40"
   />
-
-  <img
+</p>
+  <p>
+    <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     alt="git"
     width="40"
@@ -130,8 +131,7 @@ Skills: HTML | CSS | BOOTSTRAP | TAILEIND CSS | JAVASCRIPT | REACT | REDUX | NOD
     width="40"
     height="40"
   />
-</p>
- 
+  </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazmulhasanniloy&show_icons=true&locale=en&layout=compact" alt="mdnazmulhasanniloy" /></p>
