@@ -99,12 +99,10 @@ Goal-oriented Web Developer with fast-learning ability seeking a challenging car
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mdnazmulhasanniloy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<div alicn='center'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazmulhasanniloy&show_icons=true&locale=en&layout=compact" alt="mdnazmulhasanniloy" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnazmulhasanniloy&show_icons=true&locale=en" alt="mdnazmulhasanniloy" align="center" /></div>  
+<div alicn='center'></div>
 
-<div alicn='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnazmulhasanniloy&show_icons=true&locale=en" alt="mdnazmulhasanniloy" /></div>
 
-<div alicn='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnazmulhasanniloy&" alt="mdnazmulhasanniloy" /></div>
 
 <br/>  
 
@@ -133,12 +131,6 @@ Goal-oriented Web Developer with fast-learning ability seeking a challenging car
 
   
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazmulhasanniloy&show_icons=true&locale=en&layout=compact" alt="mdnazmulhasanniloy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnazmulhasanniloy&show_icons=true&locale=en" alt="mdnazmulhasanniloy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnazmulhasanniloy&" alt="mdnazmulhasanniloy" /></p>
 
 
 
