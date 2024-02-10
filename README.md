@@ -110,7 +110,7 @@ Skills: HTML | CSS | BOOTSTRAP | TAILEIND CSS | JAVASCRIPT | REACT | REDUX | NOD
     height="40"
   />
   <img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     alt="firebase"
     width="40"
     height="40"
@@ -118,7 +118,7 @@ Skills: HTML | CSS | BOOTSTRAP | TAILEIND CSS | JAVASCRIPT | REACT | REDUX | NOD
 </p>
   <p>
     <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    src=""
     alt="git"
     width="40"
     height="40"
