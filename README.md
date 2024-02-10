@@ -5,12 +5,19 @@
 
 ### ***<div align="center">Hi there 👋,  I'm MD Nazmul Hasan</div>***  
   
+<br/>
+<br/>
+
+<br/>
+<br/>
 
 Goal-oriented Web Developer with fast-learning ability seeking a challenging career to utilize my skills, and keep learning and sharing. Passionate about Creating Interactive Applications and Developed Web Applications. Interested to take on new challenges and learn new technologies. My ultimate goal is to become an awesome full-stack web developer who can make beautiful Uls and also can handle the back-end smoothly.
 
 
   
   
+<br/>
+<br/>
 
 - 🔭 I’m currently working on this page  
   
@@ -100,7 +107,12 @@ Goal-oriented Web Developer with fast-learning ability seeking a challenging car
 
 ## Github Stats  
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazmulhasanniloy&show_icons=true&locale=en&layout=compact" alt="mdnazmulhasanniloy" /></div> 
+<br/>
+<br/>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnazmulhasanniloy&show_icons=true&locale=en" alt="mdnazmulhasanniloy" /></div> 
+
+<br/>
+<br/>
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnazmulhasanniloy&" alt="mdnazmulhasanniloy" /></div>
 
 
