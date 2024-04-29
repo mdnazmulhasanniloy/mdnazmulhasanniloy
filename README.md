@@ -32,7 +32,9 @@ Goal-oriented Web Developer with fast-learning ability seeking a challenging car
   
 
 <br/>  
+<a href="https://gitroll.io/profile/u0FoioTLVkRcYzAfIabue9EXXBpA3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u0FoioTLVkRcYzAfIabue9EXXBpA3" alt="GitRoll Profile Badge"/></a>
 
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
