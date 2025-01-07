@@ -108,11 +108,7 @@ Goal-oriented Web Developer with fast-learning ability seeking a challenging car
 
 
 ## Github Stats  
-### 📈 GitHub Stats
 
-<br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnazmulhasanniloy&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="sarwar contribution graph"/>
-<br/>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazmulhasanniloy&show_icons=true&locale=en&layout=compact" alt="mdnazmulhasanniloy" /></div> 
 <br/>
 <br/>
