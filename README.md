@@ -1,7 +1,11 @@
 
 <div align="center">
-<img src="https://i.ibb.co/4dw58rt/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" align="center" style="width: 100%" />
-</div>  
+  <img 
+    src="https://media.licdn.com/dms/image/v2/D5616AQGRZFbzeEke3g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1670602246667?e=1755734400&v=beta&t=9LSS7OASAdulEYdxRVB_z_-ApYFpizuv9e6tJqMsffw" 
+    alt="Banner"
+    style="width: 100%; height: auto; max-height: 300px; object-fit: cover; border-radius: 10px;"
+  />
+</div>
 <br></br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00ABF0&center=true&vCenter=true&width=435&lines=Hello+There!+%F0%9F%91%8B;This+is+Nazmul+Hasan+%F0%9F%92%AB;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Backend+Beast+Mode+" alt="Typing SVG" /></a>
 
