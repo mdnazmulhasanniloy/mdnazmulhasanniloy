@@ -2,8 +2,9 @@
 <div align="center">
 <img src="https://i.ibb.co/4dw58rt/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" align="center" style="width: 100%" />
 </div>  
+<br></br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00ABF0&center=true&vCenter=true&width=435&lines=Hello+There!+%F0%9F%91%8B;This+is+Nazmul+Hasan+%F0%9F%92%AB;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Backend+Beast+Mode+" alt="Typing SVG" /></a>
- 
+
 - 🌱 Trying to become an expert in Backend development ❤
 - 🧠 Backend Developer blending scalable optimise application.  
 - 🚀 Currently upgrading from "writes code" to "commands servers" — hello DevOps!
